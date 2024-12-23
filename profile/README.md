@@ -29,25 +29,27 @@ This isn’t just fan fiction—it’s immersive storytelling.
 
 ---
 
-## Resources
+## Images  
 
-### Landing Page  
-![Landing Page](./assets/landing.png)
+<p align="center">  
+  <img src="/assets/landing.png" alt="Landing Page" width="1200">  
+  <img src="/assets/script_generation.png" alt="Script Generation Page" width="1200">  
+</p>  
 
-### Script Generation Page  
-![Script Generation Page](./assets/script_generation.png)
-
-### Example Output  
-![Example](./assets/example.png)
+<!-- Second Row -->  
+<p align="center">  
+  <img src="/assets/example.png" alt="Example Output" width="1200">  
+</p>  
 
 ---
 
+## Resources
+
 ### Voice Sample
-Listen to a sample generated voice below:  
+Listen to a sample generated voice below about Phil Dunphy showing a house to Walter White:  
 
 <audio controls>
   <source src="/assets/homepage1.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
 </audio>
 
 ---
