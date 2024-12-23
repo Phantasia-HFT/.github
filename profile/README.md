@@ -53,7 +53,7 @@ Listen to a sample generated voice below about Phil Dunphy showing a house to Wa
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](/license/MIT.md) file for details.
 
 ---
 
