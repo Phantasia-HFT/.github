@@ -29,6 +29,15 @@ This isn’t just fan fiction—it’s immersive storytelling.
 
 ---
 
+## Resources
+
+### Voice Sample 🎙️  
+Listen to a sample generated voice below about Phil Dunphy showing a house to Walter White:  
+
+[🎧 **Click here to listen to the voice sample!**](./assets/homepage1.mp3)
+
+---
+
 ## Images  
 
 <p align="center">  
@@ -40,15 +49,6 @@ This isn’t just fan fiction—it’s immersive storytelling.
 <p align="center">  
   <img src="/assets/example.png" alt="Example Output" width="1200">  
 </p>  
-
----
-
-## Resources
-
-### Voice Sample 🎙️  
-Listen to a sample generated voice below about Phil Dunphy showing a house to Walter White:  
-
-[🎧 **Click here to listen to the voice sample!**](./assets/homepage1.mp3)
 
 ---
 
